@@ -1,0 +1,7 @@
+{
+  "TOKEN": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "DB_HOST": "localhost",
+  "DB_USER": "root",
+  "DB_PASSWORD": "",
+  "DB_NAME": "mindbreaker"
+}
